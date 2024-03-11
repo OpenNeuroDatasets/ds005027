@@ -30,12 +30,10 @@ singularity run --cleanenv \
         -B ${DATA_DIR}:/data:ro -B ${DATA_OUT}:/out 
         ${SIMG_DIR}/fmriprep-23.1.4.simg 
         /data /out participant 
+        --skip_bids_validation
         --participant-label sub-${subj} 
-        --ignore slicetiming 
         --fs-license-file ${FS_LICENSE} 
         --fd-spike-threshold .9 
-        --use-syn-sdc 
-        --force-syn 
         --output-space MNI152NLin2009cAsym:res-2 
         --project-goodvoxels 
         --cifti-output 91k 
@@ -54,7 +52,7 @@ singularity run --cleanenv
         --ants-nthreads 8 
         --nprocs 12 
         --mem_gb 30 
-        -vv --dsname AHRB 
+        -vv --dsname MLS 
         --verbose-reports 
         -w /tmp/work -m bold T1w T2w
 ```

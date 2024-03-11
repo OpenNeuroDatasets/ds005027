@@ -1,0 +1,27 @@
+{
+    "Name": "Michigan Longitudinal Study",
+    "BIDSVersion": "1.2.1",
+    "License": "",
+    "Authors": [
+        "Michael I. Demidenko",
+        "Ryan Klaus",
+	"Mary Soules",
+	"Mary M. Heitzeg"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "Funding: R01AA012217 (link: https://reporter.nih.gov/project-details/8896367)",
+	"Upload/preprocessing: National Institute on Drug Abuse (NIDA): F32DA055334 (link: https://reporter.nih.gov/project-details/10525501)"
+    ],
+    "ReferencesAndLinks": [
+        ""	
+    ],
+    "OpenNeuroIncludedOutputs": [
+        "fMRIPrep v23.1.4: reward - volumetric + surface",
+        "MRIQC v23.1.0: reward",
+	"task summarise - behavioral summaries in json an png files"
+    ],
+    "DatasetDOI": ""
+}
+

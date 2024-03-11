@@ -58,4 +58,4 @@ singularity run --cleanenv
 
 Command used for taskdescribe_v1.0:
 
-For each session and run, there is a derivatives folder summarizing the behavioral data in an JSON or PNG image. These were calculated based the associated events.tsv files. The PNG files are meant to be used as a quick summary of the behavioral performance throughout the task/run/session
+For each session and run, there is a derivatives folder summarizing the behavioral data in an JSON or PNG image. These were calculated based on the associated events.tsv files. The PNG files are meant to be used as a quick summary of the behavioral performance throughout the task/run/session

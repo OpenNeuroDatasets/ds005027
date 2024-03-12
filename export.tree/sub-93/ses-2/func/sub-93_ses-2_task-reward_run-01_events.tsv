@@ -1,0 +1,52 @@
+onset	duration	BIDS_Subject	BIDS_Session	Run	SubTrial	Condition	Stimulus.ACC	ResponseCheck	Result	stimrt	Cue.OnsetTime	Cue.Duration	Fix.OnsetTime	Fix.Duration	Probe.Duration	Feedback.OnsetTime	Feedback.Duration
+n/a	n/a	sub-93	ses-2	1	1.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	0.03	2.0	2.03	2.0	255.0	4.333	1.695
+n/a	n/a	sub-93	ses-2	1	2.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	6.029	2.0	8.029	2.0	255.0	10.332	1.695
+n/a	n/a	sub-93	ses-2	1	3.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	12.043	2.0	14.043	2.0	255.0	16.346	1.695
+n/a	n/a	sub-93	ses-2	1	4.0	LgPun	0.0	No Response Detected	You lose $5!	n/a	18.042	2.0	20.042	2.0	255.0	22.345	1.695
+n/a	n/a	sub-93	ses-2	1	5.0	Triangle	0.0	No Response Detected	No money at stake!	n/a	24.055	2.0	26.055	2.0	255.0	28.358	1.695
+n/a	n/a	sub-93	ses-2	1	6.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	30.054	2.0	32.054	2.0	255.0	34.357	1.695
+n/a	n/a	sub-93	ses-2	1	7.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	36.068	2.0	38.068	2.0	255.0	40.371	1.695
+n/a	n/a	sub-93	ses-2	1	8.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	42.067	2.0	44.067	2.0	255.0	46.37	1.695
+n/a	n/a	sub-93	ses-2	1	9.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	48.08	2.0	50.08	2.0	255.0	52.383	1.695
+n/a	n/a	sub-93	ses-2	1	10.0	Triangle	0.0	No Response Detected	No money at stake!	n/a	54.079	2.0	56.079	2.0	255.0	58.382	1.695
+n/a	n/a	sub-93	ses-2	1	11.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	60.093	2.0	62.093	2.0	255.0	64.396	1.695
+n/a	n/a	sub-93	ses-2	1	12.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	66.092	2.0	68.092	2.0	255.0	70.395	1.695
+n/a	n/a	sub-93	ses-2	1	13.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	72.105	2.0	74.105	2.0	255.0	76.408	1.695
+n/a	n/a	sub-93	ses-2	1	14.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	78.104	2.0	80.104	2.0	255.0	82.407	1.695
+n/a	n/a	sub-93	ses-2	1	15.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	84.118	2.0	86.118	2.0	255.0	88.421	1.695
+n/a	n/a	sub-93	ses-2	1	16.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	90.117	2.0	92.117	2.0	255.0	94.42	1.695
+n/a	n/a	sub-93	ses-2	1	17.0	SmallPun	0.0	No Response Detected	You lose $0.20!	n/a	96.13	2.0	98.13	2.0	255.0	100.433	1.695
+n/a	n/a	sub-93	ses-2	1	18.0	SmallReward	0.0	No Response Detected	You did not earn $0.20!	n/a	102.129	2.0	104.129	2.0	255.0	106.432	1.695
+n/a	n/a	sub-93	ses-2	1	19.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	108.143	2.0	110.143	2.0	255.0	112.446	1.695
+n/a	n/a	sub-93	ses-2	1	20.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	114.157	2.0	116.157	2.0	255.0	118.46	1.695
+n/a	n/a	sub-93	ses-2	1	21.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	120.156	2.0	122.156	2.0	255.0	124.459	1.695
+n/a	n/a	sub-93	ses-2	1	22.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	126.17	2.0	128.17	2.0	255.0	130.473	1.695
+n/a	n/a	sub-93	ses-2	1	23.0	Triangle	0.0	No Response Detected	No money at stake!	n/a	132.169	2.0	134.169	2.0	255.0	136.472	1.695
+n/a	n/a	sub-93	ses-2	1	24.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	138.182	2.0	140.182	2.0	255.0	142.485	1.695
+n/a	n/a	sub-93	ses-2	1	25.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	144.181	2.0	146.181	2.0	255.0	148.484	1.695
+n/a	n/a	sub-93	ses-2	1	26.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	150.195	2.0	152.195	2.0	255.0	154.498	1.695
+n/a	n/a	sub-93	ses-2	1	27.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	156.209	2.0	158.209	2.0	255.0	160.512	1.695
+n/a	n/a	sub-93	ses-2	1	28.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	162.208	2.0	164.208	2.0	255.0	166.511	1.695
+n/a	n/a	sub-93	ses-2	1	29.0	Triangle	0.0	No Response Detected	No money at stake!	n/a	168.222	2.0	170.222	2.0	255.0	172.525	1.695
+n/a	n/a	sub-93	ses-2	1	30.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	174.221	2.0	176.221	2.0	255.0	178.524	1.695
+n/a	n/a	sub-93	ses-2	1	31.0	SmallReward	0.0	No Response Detected	You did not earn $0.20!	n/a	180.234	2.0	182.234	2.0	255.0	184.537	1.695
+n/a	n/a	sub-93	ses-2	1	32.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	186.233	2.0	188.233	2.0	255.0	190.536	1.695
+n/a	n/a	sub-93	ses-2	1	33.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	192.247	2.0	194.247	2.0	255.0	196.55	1.695
+n/a	n/a	sub-93	ses-2	1	34.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	198.261	2.0	200.261	2.0	255.0	202.564	1.695
+n/a	n/a	sub-93	ses-2	1	35.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	204.26	2.0	206.26	2.0	255.0	208.563	1.695
+n/a	n/a	sub-93	ses-2	1	36.0	LgReward	0.0	No Response Detected	You did not earn $5!	n/a	210.274	2.0	212.274	2.0	255.0	214.577	1.695
+n/a	n/a	sub-93	ses-2	1	37.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	216.273	2.0	218.273	2.0	255.0	220.576	1.695
+n/a	n/a	sub-93	ses-2	1	38.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	222.286	2.0	224.286	2.0	255.0	226.589	1.695
+n/a	n/a	sub-93	ses-2	1	39.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	228.285	2.0	230.285	2.0	255.0	232.588	1.695
+n/a	n/a	sub-93	ses-2	1	40.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	234.299	2.0	236.299	2.0	255.0	238.602	1.695
+n/a	n/a	sub-93	ses-2	1	41.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	240.313	2.0	242.313	2.0	255.0	244.616	1.695
+n/a	n/a	sub-93	ses-2	1	42.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	246.312	2.0	248.312	2.0	255.0	250.615	1.695
+n/a	n/a	sub-93	ses-2	1	43.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	252.326	2.0	254.326	2.0	255.0	256.629	1.695
+n/a	n/a	sub-93	ses-2	1	44.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	258.34	2.0	260.34	2.0	255.0	262.643	1.695
+n/a	n/a	sub-93	ses-2	1	45.0	SmallReward	1.0	Correct Response!	You earn $0.20!	n/a	264.339	2.0	266.339	2.0	255.0	268.642	1.695
+n/a	n/a	sub-93	ses-2	1	46.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	270.353	2.0	272.353	2.0	255.0	274.656	1.695
+n/a	n/a	sub-93	ses-2	1	47.0	LgReward	1.0	Correct Response!	You earn $5!	n/a	276.352	2.0	278.352	2.0	255.0	280.655	1.695
+n/a	n/a	sub-93	ses-2	1	48.0	Triangle	1.0	Correct Response!	No money at stake!	n/a	282.365	2.0	284.365	2.0	255.0	286.668	1.695
+n/a	n/a	sub-93	ses-2	1	49.0	LgPun	1.0	Correct Response!	You keep $5!	n/a	288.364	2.0	290.364	2.0	255.0	292.667	1.695
+n/a	n/a	sub-93	ses-2	1	50.0	SmallPun	1.0	Correct Response!	You keep $0.20!	n/a	294.378	2.0	296.378	2.0	255.0	298.681	1.695
+n/a	n/a	sub-93	ses-2	2	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	228.9835376554015	n/a	1.6877699274198728

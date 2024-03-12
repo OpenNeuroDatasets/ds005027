@@ -1,0 +1,109 @@
+{
+    "Run 1": {
+        "Total Trials": 50,
+        "Trial Order": [
+            999
+        ],
+        "Trialwise Sequence": {
+            "gain-loss": 10,
+            "loss-loss": 7,
+            "neutral-gain": 7,
+            "gain-gain": 6,
+            "loss-neutral": 6,
+            "loss-gain": 6,
+            "gain-neutral": 4,
+            "neutral-loss": 3
+        },
+        "Trials Per Cue Condition": {
+            "SmallReward": 10,
+            "LgReward": 10,
+            "SmallPun": 10,
+            "LgPun": 10,
+            "Triangle": 10
+        },
+        "Trials Per Feedback Condition": {
+            "You lose $5!": 9,
+            "You earn $5!": 8,
+            "You earn $0.20!": 7,
+            "Neutral Hit": 7,
+            "You keep $0.20!": 6,
+            "You lose $0.20!": 4,
+            "You did not earn $0.20!": 3,
+            "Neutral Miss": 3,
+            "You did not earn $5!": 2,
+            "You keep $5!": 1
+        },
+        "Accuracy by Cue Condition": {
+            "LgPun": 0.5,
+            "LgReward": 0.9,
+            "SmallPun": 0.9,
+            "SmallReward": 1.0,
+            "Triangle": 0.7
+        },
+        "Overall Accuracy": 0.8,
+        "Mean RT": 140.3,
+        "Mean RT by Hit/Miss": {
+            "1.0": 140.3
+        },
+        "Mean RT by Cue Condition": {
+            "LgPun": 216.2,
+            "LgReward": 100.44444444444444,
+            "SmallPun": 172.11111111111111,
+            "SmallReward": 138.4,
+            "Triangle": 99.14285714285714
+        }
+    },
+    "Run 2": {
+        "Total Trials": 50,
+        "Trial Order": [
+            999
+        ],
+        "Trialwise Sequence": {
+            "gain-loss": 10,
+            "loss-loss": 7,
+            "neutral-gain": 7,
+            "gain-gain": 6,
+            "loss-neutral": 6,
+            "loss-gain": 6,
+            "gain-neutral": 4,
+            "neutral-loss": 3
+        },
+        "Trials Per Cue Condition": {
+            "SmallReward": 10,
+            "LgReward": 10,
+            "SmallPun": 10,
+            "LgPun": 10,
+            "Triangle": 10
+        },
+        "Trials Per Feedback Condition": {
+            "Neutral Hit": 10,
+            "You earn $5!": 7,
+            "You lose $5!": 6,
+            "You earn $0.20!": 6,
+            "You lose $0.20!": 5,
+            "You keep $0.20!": 5,
+            "You did not earn $0.20!": 4,
+            "You keep $5!": 4,
+            "You did not earn $5!": 3
+        },
+        "Accuracy by Cue Condition": {
+            "LgPun": 0.8,
+            "LgReward": 0.9,
+            "SmallPun": 0.7,
+            "SmallReward": 0.9,
+            "Triangle": 1.0
+        },
+        "Overall Accuracy": 0.86,
+        "Mean RT": 161.69767441860466,
+        "Mean RT by Hit/Miss": {
+            "1.0": 161.69767441860466
+        },
+        "Mean RT by Cue Condition": {
+            "LgPun": 172.125,
+            "LgReward": 130.88888888888889,
+            "SmallPun": 155.42857142857142,
+            "SmallReward": 193.22222222222223,
+            "Triangle": 157.1
+        }
+    }
+}

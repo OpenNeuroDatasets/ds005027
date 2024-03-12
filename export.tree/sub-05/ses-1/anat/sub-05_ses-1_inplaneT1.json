@@ -1,0 +1,19 @@
+{
+	"Modality": "MR",
+	"InstitutionName": "U of M FMRi",
+	"PatientPosition": "HFS",
+	"MRAcquisitionType": "2D",
+	"SeriesDescription": "T1 ax overlay f/s",
+	"ScanningSequence": "GR",
+	"ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
+	"EchoTime": 0.0036,
+	"RepetitionTime": 0.2,
+	"FlipAngle": 90,
+	"CoilString": "HEAD",
+	"PercentPhaseFOV": 100,
+	"PercentSampling": 100,
+	"AcquisitionMatrixPE": 192,
+	"ReconMatrixPE": 256,
+	"PhaseEncodingAxis": "i",
+	"InPlanePhaseEncodingDirectionDICOM": "ROW"
+}

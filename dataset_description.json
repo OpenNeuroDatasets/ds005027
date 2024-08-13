@@ -23,5 +23,5 @@
         "task summarise - behavioral summaries in json an png files"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005027.v1.0.2",
-    "Acknowledgements": "Thanks to the Participants at University of Michigan, and Dr. Mary Heitzeg for agreeing to share the Michigan Longitudinal Study (MLS; R01HD075806) data for this project."
+    "Acknowledgements": "Thanks to the Participants at University of Michigan, and Dr. Mary Heitzeg for agreeing to share the Michigan Longitudinal Study (MLS; R01HD075806) data for this project. Thanks to Mary Soules and Ryan Klaus (with assistance from Krisanne Litinas) at the University of Michigan for working to convert the MLS data to BIDS format and sharing these derivatives."
 }
